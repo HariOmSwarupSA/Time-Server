@@ -16,4 +16,4 @@ This is a simple demonstration of how time servers can be implemented using sock
 6) Send the data back
 7) Close the connection
 ##  Developed by
-Hari Om Swarup S A - PES University - Electronic City
+Hari Om Swarup S A
